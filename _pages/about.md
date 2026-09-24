@@ -11,7 +11,7 @@ I am an undergraduate student in Statistics at Tongji University, and I will pur
 
 ## Education
 
-* **2023 - 2027**: Tongji University, B.S. in Statistics
+* **2023 - 2027**: School of Mathematical Sciences, Tongji University, B.S. in Statistics
 
 ## Research Interests
 
