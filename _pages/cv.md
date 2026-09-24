@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Statistics, Tongji University, 2023 - 2027
+* B.S. in Statistics, School of Mathematical Sciences, Tongji University, 2023 - 2027
 
 Work experience
 ======
