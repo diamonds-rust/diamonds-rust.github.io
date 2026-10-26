@@ -15,8 +15,6 @@ I am an undergraduate student in Statistics at Tongji University, and I will pur
 
 ## Research Interests
 
-* Non-Euclidean data analysis
-* Statistical methods for complex data
 
 ## Contact
 
